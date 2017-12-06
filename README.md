@@ -15,6 +15,7 @@
   - Lưu và save hỗ trợ Tiếng Việt.
   - Hỗ trợ xuất file csv và tự mở.
   - Sử dụng DLL UI.
+  
 (*) Các trường hợp chỉnh sửa thời gian lùi lại 1,2 ngày dễ thêm chi tiêu sẽ không cộng dồn vào chi tiêu trước đó, vì chương trình sẽ tạo ngày đó kế tiếp ngày cuối cùng.
 
 (**) Sẽ xem được hết các danh sách nên trường hợp số lượng lớn các chi tiêu có thể gây ra chậm chương trình(Có thể khắc phục bằng cách giới hạn xem và thêm mục tải thêm[Chưa làm]).
